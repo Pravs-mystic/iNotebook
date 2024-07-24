@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# How to Run
+
+Make sure mongodb is running in your system
+
+Install dependencies
+### npm install
+
+To run both frontend nad backend
+### npm run both
+
+To run backend
+### npm run server
+
+To run frontend
+### npm run start
+
+
 ## Available Scripts
 
 In the project directory, you can run:
